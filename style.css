@@ -1,0 +1,34 @@
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+
+h3{
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.main-content {
+    border: thick solid black;
+    border-radius: 2em;
+    background-color: gray;
+}
+
+.flex-display{
+    display: flex;
+}
+
+.truth {
+    padding: 1em;
+    float: left;
+    width: 33%;
+    border: 1px solid black;
+    border-radius: 2em;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+
